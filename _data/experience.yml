@@ -3,24 +3,36 @@
 
 - company: Zed Technologies
   position: Full-Stack Developer
-  duration: Nov, 2019 &mdash; Now
+  duration: Nov, 2019 &mdash; May, 2022
   summary: <ul class="resume-item-list">
-            <li>Participated in developing a web application, Zed RIS, using Blazor that allows radiology practices to accept DICOM medical images, and provides reporting and managing functions.</li>
-            <li>Developed a support dashboard web application using Blazor that centralises the clients information from different systems via API endpoints, monitors sensitive data via background service and sends alerts via slack and email.</li>
-            <li>Maintained and improved the codebase of exisiting products.</li>
-            <li>Write unit tests or integration tests for the features and bugs fixes.</li>
+            <li>Designed, developed, and maintained multiple projects with various web frameworks and languages, mainly ASP.NET(C#), VueJS(Javascript), Blazor(C#), Angular(Typescript), etc</li>
+            <li>Improved the codebase of exisiting products.</li>
+            <li>Created unit tests or integration tests for the features and bugs fixes.</li>
+            <li>Built CI/CD pipelines using Azure DevOps and release mobile apps for 30+ clients.</li>
             <li>Documented codebase and instruction manuals.</li>
             <li>Collaborated and interacted constructively with a team of individuals with diverse skills.</li>
+            <li>Hosted dev meetings and assisted with deployments and updates.</li>
+            </ul>
+
+- company: UNITI Software
+  position: Front-End Developer
+  duration: Mar, 2019 &mdash; Jun, 2019
+  summary: <ul class="resume-item-list">
+            <li>Setup, architected and developed a Vue app that makes it easy for the end users to understand, manage, save and revoke the appointments allocation results from the server via REST APIs</li>
+            <li>Performed bug fixes, code refactor and PR reviews.</li>
+            <li>Worked directly with client stakeholders to develop technical solutions for business cases</li>
+            <li>Collaborate with BA, back-end developers and testers in an Agile development environment</li>
+            <li>Tracked and solved tickets on Software Management Software</li>
             </ul>
 
 - company: Abacus.co
   position: Android Developer Intern
   duration: Oct, 2018 &mdash; Dec, 2018
   summary: <ul class="resume-item-list">
-            <li>Creating new features and functionality on the Roll'd App using Java, Realm, REST, JSON, SDKs, etc.</li>
-            <li>Updating and optimizing layouts and partials of UI.</li>
-            <li>Fixing bug reported from testers.</li>
-            <li>Working with the back end developers.</li>
+            <li>Developed the ordering function for customers to order items from the app and update the user with the order status asynchronously with the practice of firebase database.</li>
+            <li>Implemented and optimised the existing UI layouts and components to minimise the loading time and support different screen sizes.</li>
+            <li>Collaborated with back-end developers to perform bug fixing.</li>
+            <li>Involved in designing an Android app for delivery guys to find the optimised route to pick up food from multiple restaurants, using google APIs and Firebase Realtime Database.</li>
             </ul>
 
 # # Director of Digital Stratgy
@@ -35,3 +47,13 @@
 #   position: Communications Coordinator
 #   duration:   Jun, 2008  &mdash; May, 2010
 #   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+
+# # Communications Coordinator
+#      <li>Developed a web application, Zed RIS, using Blazor that allows radiology practices to accept DICOM medical images, and provides reporting and managing functions.</li>
+#      <li>Developed a support dashboard web application using Blazor that centralises the clients information from different systems via API endpoints, monitors sensitive data via background service and sends alerts via slack and email.</li>
+#      <li>Creating new features and functionality on the Roll'd App using Java, Realm, REST, JSON, SDKs, etc.</li>
+#      <li>Updating and optimizing layouts and partials of UI.</li>
+#
+
+            

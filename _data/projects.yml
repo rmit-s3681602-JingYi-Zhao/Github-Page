@@ -13,6 +13,7 @@
       <li>Write unit tests and automated tests.</li>
       <li>Implemented API endpoints for authentication, searching and updating orders and requests.</li>
       <li>Participated in generating HL7 messages and sending to internal or external systems.</li>
+      <li>Key Techniques &#58; ASP.NET CORE Blazor, MSSQL, Dapper, SignalR, Javascript, CSS, HTML, bUnit, etc</li>
     </ul>
   display: yep
   imagess: 
@@ -30,7 +31,7 @@
       <li>Implemented background services to monitor client and supporting data.</li>
       <li>Developed alert service to send alerts via slack and email.</li>
       <li>Added UI for support team to view and manage client data.</li>
-      <li>Used Azure logic app to filter and redirect log activities.</li>
+      <li>Used Azure Logic App to filter and redirect log activities.</li>
     </ul>
 
 # jazznotes.io
@@ -39,12 +40,13 @@
   duration: March, 2019 &mdash; June, 2019
   # url: "Notes:"
   description: 
-    A project of Client Management System sponsored by UNITI Software, which can allocate the patients’ appointments automatically to health workers from algorithm result and can perform manual changes to the result based on user’s preference.
+    A project of Automated Appointment Allocation System sponsored by UNITI Software, which allocates the patients’ appointments automatically to health workers from algorithm result and performs manual changes to the result based on user’s preference.
     <ul class="resume-item-list"> 
-      <li>Lead front end developer</li>
+      <li>Lead front end developers</li>
       <li>Set up and architected a Vue web app for the front-end of the system</li>
-      <li>Coded user-customisable web pages to convert raw data to easily understandable graphical formats, and allow a user to alter, undo and save the schedule via async request with Axios.</li>
+      <li>Coded user-customisable web pages to convert raw data to easily understandable tabular/graphical formats, and allow a user to alter, undo and save the schedule via async request with Axios.</li>
       <li>Worked closely with BA, back-end developers and testers with agile development practices.</li>
+      <li>Key Techniques &#58; VueJS, Spring Boot, NPM, Axios, Git, Trello, HTML, CSS, Javascript, Webpack, REST API.</li>
     </ul>
   display: yep
   imagess: 
