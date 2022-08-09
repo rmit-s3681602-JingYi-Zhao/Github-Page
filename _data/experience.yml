@@ -30,7 +30,7 @@
   duration: Oct, 2018 &mdash; Dec, 2018
   summary: <ul class="resume-item-list">
             <li>Developed the ordering function for customers to order items from the app and update the user with the order status asynchronously with the practice of firebase database.</li>
-            <li>Implemented and optimised the existing UI layouts and components to minimise the loading time and support different screen sizes.</li>
+            <li>Optimised the existing UI layouts and components to minimise the loading time and support different screen sizes.</li>
             <li>Collaborated with back-end developers to perform bug fixing.</li>
             <li>Involved in designing an Android app for delivery guys to find the optimised route to pick up food from multiple restaurants, using google APIs and Firebase Realtime Database.</li>
             </ul>
