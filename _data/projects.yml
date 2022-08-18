@@ -4,7 +4,7 @@
 # Zed RIS
 - project: Zed RIS
   role: 
-  duration: Aug, 2020 &mdash; Oct, 2020
+  duration: Aug, 2020 &mdash; Jun, 2021
   # url: "Notes:"
   description: 
       Zed RIS, also known as Zed Orders Dashboard, allows radiology practices to accept DICOM medical images, and provides medical reporting and managing functions.
